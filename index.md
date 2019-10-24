@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Tiffany's Blog
+
+Here records IT things and my life
 
 You can use the [editor on GitHub](https://github.com/tiffany-chao/tiffany-blog.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -14,7 +16,7 @@ Syntax highlighted code block
 # Header 1
 Welcome to Tiffany's Blog
 ## Header 2
-It records IT things and my life
+
 ### Header 3
 
 - Bulleted
